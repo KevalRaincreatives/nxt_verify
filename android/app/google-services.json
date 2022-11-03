@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053602329990",
+    "project_id": "nxt-verify",
+    "storage_bucket": "nxt-verify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053602329990:android:083847cd5988ec78b5e807",
+        "android_client_info": {
+          "package_name": "com.rc.nxt_verify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053602329990-o230l5r9626vd9o0o41t0l2jfc19b3g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rc.nxt_verify",
+            "certificate_hash": "e98d1b92470bf02eea794b2e3ae80bc14174a825"
+          }
+        },
+        {
+          "client_id": "1053602329990-vs1udlu8a6fro41n4jnkk6tpsr69002l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJR0MIDGkDRiAFRMIGXETnja1Lnu4Kq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053602329990-vs1udlu8a6fro41n4jnkk6tpsr69002l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
